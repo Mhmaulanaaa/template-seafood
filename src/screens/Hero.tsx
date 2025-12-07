@@ -10,17 +10,17 @@ export default function HeroSliderPremium() {
   const navigate = useNavigate();
   const slides = [
     {
-      img: "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1600&auto=format",
+      img: "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Seafood Segar Kualitas Premium",
       desc: "Udang windu, cumi, dan ikan segar langsung dari laut.",
     },
     {
-      img: "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1600&auto=format",
+      img: "https://images.unsplash.com/photo-1671521792873-b45b7a7c6b0f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Panen Hari Ini, Kirim Hari Ini",
       desc: "Kesegaran terjaga dengan standar cold chain terbaik.",
     },
     {
-      img: "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1600&auto=format",
+      img: "https://images.unsplash.com/photo-1552577411-662ee9408873?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Premium Packaging, Harga Bersahabat",
       desc: "Pengemasan higienis dan aman sampai tujuan.",
     },
